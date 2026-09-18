@@ -18,7 +18,6 @@
 |---|---|
 | `fatsecret_food_data.py` | 크롤링/파싱/저장 로직 (`search_food`, `get_food_detail`, `save_food_data`) |
 | `fatsecret_food_ui.py` | `tkinter` 기반 GUI (검색 → 목록 선택 → 상세 조회 → CSV 저장) |
-| `report.html` | 프로젝트 결과 리포트 |
 | `requirements.txt` | 의존 패키지 목록 |
 
 ## 요구 사항
